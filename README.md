@@ -15,3 +15,8 @@ OpenID Connect integration with Angular CLI and oidc-client-js.
 - master = authorization code flow + PKCE
 
 - implicit = implicit flow
+
+## Test user
+
+- user: alice
+- password: alice
