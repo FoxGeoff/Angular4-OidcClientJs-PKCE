@@ -135,5 +135,8 @@
       }
     }
   },
-  "defaultProject": "angular4-oidcclientjs-example"
+  "defaultProject": "angular4-oidcclientjs-example",
+  "cli": {
+    "analytics": false
+  }
 }
